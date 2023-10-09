@@ -43,6 +43,7 @@ body {
 .foto1 {
   padding: 40px 250px 0px  250px;
   margin-bottom: 3px;
+  justify-content: center;
  }
 
  .foto2 {
