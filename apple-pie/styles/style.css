@@ -22,3 +22,51 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+#encabezado {
+  background-image: url(/apple-pie/images/apple-pie.jpg);
+  padding: 250px;
+  background-size: 100%;
+}
+ h1 {
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 80px;
+ }
+
+ header {
+  text-align: justify center;
+  padding: 20px;
+  margin: 20px;
+ }
+
+.foto1 {
+  padding: 40px 250px 0px  250px;
+  margin-bottom: 3px;
+ }
+
+ .foto2 {
+  padding: 10px 250px 0px  300px;
+  margin-bottom: 3px;
+ }
+
+ h2 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 10px;
+  padding-left: 20px;
+  padding-top: 20px;
+ }
+
+ ul {
+  margin: 50px;
+  list-style:disc;
+  text-align: justify;
+  line-height: 120%;
+ }
+
+ ol {
+  margin: 50px;
+  list-style:decimal;
+  text-align: justify;
+  line-height: 120%;
+ }
